@@ -1,3 +1,13 @@
+## How to clone
+
+ * `git clone https://github.com/rifttech/react-native-bootstrap.git MY_FOLDER`
+ * `git remote -v` shows list your existing remotes
+ * `git remote rm origin` removes a remote URL from your repository
+ * `git remote set-url origin %URL_OF_NEW_REMOTE_REPOSITORY_HERE%` changes an existing remote repository URL
+
+
+
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
